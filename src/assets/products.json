@@ -1,0 +1,58 @@
+[
+{
+"id": 0,
+"headline": "iMac, IMAC 24 M1/8/256 pink, 256 GHz",
+"paragraph": "iMac, IMAC 24 M1/8/256 pink, 256 GHz, 8 GB ram, Perfekt. IMAC 24 købt i juni 2023 og brugt få gange. Perfekt stand. Nypris: 11.499,- Kvittering haves. Sælges for 6.000,- Kan afhentes på Frederiksberg",
+"sellerId": 0,
+"price": 6000,
+"imagePath": "/images/imac_1.webp"
+},
+{
+"id": 1,
+"headline": "iMac, iMac Retina 5k 27 2019, 3,1 GHz",
+"paragraph": "iMac, iMac Retina 5k 27 2019, 3,1 GHz, 8 GB ram, 1000 GB harddisk, Perfekt. iMac i super god stand, ikke brugt meget, sælges da jeg er gået over til at kun bruge arbejdscomputer. Ingen synlige tegn på brug og virker som den skal, uden problemer. Der medfølger Apple keyboard og magic mouse :) Sælger helst i København, kan afhentes her på Frederiksberg C, eller vi aftaler nærmere.",
+"sellerId": 1,
+"price": 5000,
+"imagePath": "/images/imac_2.webp"
+},
+{
+"id": 2,
+"headline": "iMac, 2019, 21,5 tommer, 3,6 GHz Quad-Core ...",
+"paragraph": "iMac, 2019, 21,5 tommer, 3,6 GHz Quad-Core Intel Core i3 GHz, 2 GB ram, 8 GB harddisk, God. iMac der er brugt, men i ganske god stand. Sælges da den ikke længere bruges. Styresystem: macOS Sonoma 14.3. 21,5 tommer Retina 4K - skærm. Kan afhentes på København N.",
+"sellerId": 2,
+"price": 3800,
+"imagePath": "/images/imac_3.webp"
+},
+{
+"id": 3,
+"headline": "iMac, Retina 27'' Late 2015, 4GHz I7 GHz",
+"paragraph": "iMac, Retina 27'' Late 2015, 4GHz I7 GHz, 16 GB ram, 2000 GB harddisk, Perfekt. Lækker stor og hurtig iMac. Masser af RAM og harddiskplads. Stået i rent og røgfrit hjem. Kom evt og prøv den af i ro og mag inden du køber. Kun afhentning, da jeg ikke har original emballage mere.",
+"sellerId": 3,
+"price": 2500,
+"imagePath": "/images/imac_4.webp"
+},
+{
+"id": 4,    
+"headline": "iMac, 27 tommer Retina / Late 2014, 3,5 GHz ...",
+"paragraph": "iMac, 27 tommer Retina / Late 2014, 3,5 GHz quad core intel i5 GHz, 32 GB ram, 3000 GB harddisk, God. Dejlig computer med rigtig meget harddisk. Men jeg bruger den bare ikke mere. Fungerer ellers fint.",
+"sellerId": 4,
+"price": 3000,
+"imagePath": "/images/imac_5.webp"
+},
+{
+"id": 5,
+"headline": "iMac, Apple iMac 27” , 3,5 GHz Core i5 GHz",
+"paragraph": "iMac, Apple iMac 27” , 3,5 GHz Core i5 GHz, 8 GB ram, Perfekt. Sælger denne Apple iMac 27” (mid-2017) for mine forældre, da de har fået ny bærbar. Virker perfekt, og standen er i top. Graphics: AMD Radeon Pro 575, 4GB. Resolution: 5120 x 2880. Base memory: 8 GB. Processor: 3.5 GHz Core i5 (i5-7600). Keyboard og 2 x mus medfølger. Afhentning i Lyngby, ell. Horsens (efter aftale)",
+"sellerId": 5,
+"price": 5000,
+"imagePath": "/images/imac_6.webp"
+},
+{
+"id": 6,
+"headline": "iMac, Retina 5K, Mid-2017 - MNE92LL/A",
+"paragraph": "iMac, Retina 5K, Mid-2017 - MNE92LL/A, 3,4 GHz, 24 GB ram, 1000 GB harddisk, God. Opløsning: 5120x2880. Processor: Quad-Core Intel Core i5. Grafikkort: Radeon Pro 570 4GB. Porte: 3,5mm Minijack, SD kortlæser, 4 x USB-A, 2 x USB-C, Ethernet (10/100/1000 Mbps). Købt oktober 2017 (kvittering haves). Der er indsat ekstra ram på 2x8 GB, udover standardkonfigurationen på 2x4 GB (2400 MHz DDR4). Maskinen er virkelig velholdt. Der medfølger et standard mus/tastatursæt, som er Mac-kompatibelt. Maskinen er ved levering med en renset disk og reinstallering til macOS Ventura 13.7.1 (22H221).",
+"sellerId": 6,
+"price": 4000,
+"imagePath": "/images/imac_7.webp"
+}
+]

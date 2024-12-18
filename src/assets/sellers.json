@@ -1,0 +1,44 @@
+[
+{"name": "Karl J.",
+"articleCount": 8,
+"zip": 6070,
+"city": "Christiansfeld",
+"distance": 253
+},
+{"name": "Matias B.",
+"articleCount": 11,
+"zip": 2500,
+"city": "Valby",
+"distance": 2
+},
+{"name": "Kirsten T.",
+"articleCount": 28,
+"zip": 7000,
+"city": "Fredericia",
+"distance": 236
+},
+{"name": "Jesper J.",
+"articleCount": 8,
+"zip": 9000,
+"city": "Aalborg",
+"distance": 437
+},
+{"name": "Birthe A.",
+"articleCount": 4,
+"zip": 2000,
+"city": "Frederiksberg",
+"distance": 2
+},
+{"name": "Jens P.",
+"articleCount": 22,
+"zip": 6950,
+"city": "Ringkøbing",
+"distance": 378
+},
+{"name": "Thomas R.",
+"articleCount": 29,
+"zip": 2920,
+"city": "Charlottenlund",
+"distance": 24
+}
+]

@@ -44,12 +44,12 @@ import IconComponent from './IconComponent.vue';
 
 
 p{
-    font-family: 'Proxima-Nova', sans-serif;
+    font-family: proxima-nova, sans-serif;
     font-size: 1rem;
 }
 
 input{
-    font-family: 'Proxima-Nova';
+    font-family: proxima-nova, sans-serif;
     font-size: 1rem;
 }
 

@@ -21,17 +21,17 @@ import SiteHeader from './components/SiteHeader.vue'
 p{
   font-weight: 400;
   line-height: 120%;
-  font-family: 'Proxima Nova', sans-serif;
+  font-family: 'Proxima-Nova', sans-serif;
 }
 
 h1, h2, h3, h4{
-    font-family: 'Proxima Nova', sans-serif;
+    font-family: 'Proxima-Nova', sans-serif;
     line-height: 120%;
 }
 
 input, button{
   border: none;
-  font-family: 'Proxima Nova', sans-serif;
+  font-family: 'Proxima-Nova', sans-serif;
 }
 
 a{
